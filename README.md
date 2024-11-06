@@ -8,6 +8,6 @@ The goals of the scripts in this repository are to 1) compile water quality data
 
 Steps to running drain analysis:
 
-01_wq_compiledatal.ipynb: This script combines all existing water quality data for DCEW so that the data formating is consistent for later analysis. 
+01_compiledata.ipynb: This script combines all existing water quality data for DCEW so that the data formating is consistent for later analysis. 
 
-02_wq_figures.ipynb: Creates a linear regression of water quality variables versus distance from outlet and compares water quality metrics through time. 
+02_figures.ipynb: Creates a linear regression of water quality variables versus distance from outlet and compares water quality metrics through time. 
